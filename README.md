@@ -1,5 +1,9 @@
-# 📊 Geopolitical Sentiment & Commodities Intelligence Terminal
-![Excel](https://shields.io) ![BI](https://shields.io) ![Status](https://shields.io)
+# 📊 Geopolitical Sentiment & Commodities Intelligence 
+## 🛠️ Professional Technical Architecture & Analytics Stack
+* **Core Processing Engine:** `Microsoft Excel` 📊 *(Advanced Pivot Table Aggregations & Non-Linear Data Modeling)*
+* **Business Intelligence Logic:** `Geopolitical Risk Analytics` 🗄️ *(Volatility Tracking & Variance Delta Computing)*
+
+
 An interactive, multi-dimensional Business Intelligence Terminal engineered to model the structural correlations between global geopolitical risk variables, maritime chokepoint supply shocks, and international spot price volatility for precious metals and energy assets.
 ## 🛠️ Professional Technical Architecture & Analytics Stack
 * **Core Processing Engine:** Microsoft Excel (Advanced Pivot Table Aggregations, Custom Value Field Architectures, and Non-Linear Data Modeling) [17.3].
